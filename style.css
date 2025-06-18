@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #141111;
+}
+
+.nexus-title {
+  color: #91610a;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+
+.nexus-title:hover {
+  color: #cc8502;
+  text-decoration: underline;
+}
+.nexus-title .pay {
+  display: block;
+  margin-top: -0.2rem;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 1rem;
+}
+
+.instruction-text {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.custom-input {
+  background-color: #ffffff;
+  border: 2px solid #000000;
+  color: #000000;
+}
+.custom-input::placeholder {
+  color: #666;
+}
+.custom-input:focus {
+  border-color: #c27f03;
+  box-shadow: 0 0 0 0.2rem rgba(255,165,0,0.25);
+}
+
+.link-muted {
+  color: #aaaaaa;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.create-account {
+  color: white;
+  text-decoration: underline;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+.create-account:hover {
+  opacity: 0.8;
+}
+
+.footer-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #cc8502;
+  color: white;
+  font-weight: 700;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
