@@ -17,9 +17,10 @@ O projeto foi focado no front-end, com atenção especial ao design responsivo, 
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3 (incluindo Flexbox e Grid)
-- JavaScript (vanilla)
+- HTML5  
+- CSS3 (incluindo Flexbox e Grid)  
+- JavaScript (vanilla)  
+- Bootstrap  
 - Figma (prototipagem inicial)
 
 ## Como Executar
@@ -35,4 +36,3 @@ Fico aberto a feedbacks e sugestões para continuar aprimorando minhas habilidad
 ---
 
 Obrigado por conferir o projeto!
-
