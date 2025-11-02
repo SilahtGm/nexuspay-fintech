@@ -13,15 +13,7 @@ O projeto foi focado no front-end, com atenção especial ao design responsivo, 
 - Recriação fiel da interface criada no Figma para a fintech
 - Layout responsivo, adaptando-se a diferentes tamanhos de tela
 - Navegação entre seções com scroll suave e links ancorados
-- Uso de HTML5, CSS3 e JavaScript puro para garantir desempenho e compatibilidade
-
-## Tecnologias Utilizadas
-
-- HTML5  
-- CSS3 (incluindo Flexbox e Grid)  
-- JavaScript (vanilla)  
-- Bootstrap  
-- Figma (prototipagem inicial)
+- Uso de HTML5 e CSS3.
 
 ## Como Executar
 
